@@ -1,0 +1,27 @@
+ul li a {
+  color: black;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+ul li a:hover
+{
+  color: #005cbf;
+
+}
+
+
+ul
+{
+  background-color: #9fcdff;
+}
+
+#myImg
+{
+    height: 100%;
+    width: 100%;
+}
+.row .col-sm-4 .col-sm-4
+{
+    border: 2px solid green;
+}
